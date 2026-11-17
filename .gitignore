@@ -1,0 +1,31 @@
+# macOS 시스템 파일
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Python 가상환경 및 캐시
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 에디터 및 IDE 설정
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 개인 자료 및 환경변수
+*.env
+*.local
+private/
+secrets/
+*.log
